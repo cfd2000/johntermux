@@ -5,7 +5,7 @@ This Script Only Work With Arm User. This Is Not A Community Edition So You Man 
 
 # Installation
 
-wget 
+wget https://raw.githubusercontent.com/RootSh311/JohnTermux/master/johntermux
 
 
 bash johntermux
