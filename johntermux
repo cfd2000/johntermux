@@ -39,4 +39,7 @@ echo ' cd $HOME/JohnTermux'
 echo ' ./john' 
 echo -e "$red Remember This Is Not The Jumno/Community Edition"
 echo "Please Subscribe My Channel"
-rm -rf john-1.8.0.tar.xz john-1.8.0
+cd $HOME
+rm -rf john-1.8.0.tar.xz
+rm -rf john-1.8.0
+sleep 2
